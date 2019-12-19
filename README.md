@@ -1,4 +1,4 @@
-# VolvoSaab_datset
+# VolvoSaab_dataset
 Kevin Klarin och Oliver Witzel data-set for detecting difference between Saab and Volvo car models
 Images contains all trainging images
 annotationsXML containts trainingdata for Keras
