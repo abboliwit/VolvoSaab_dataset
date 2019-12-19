@@ -1,0 +1,1 @@
+<annotations><filename>00000126.JPEG</filename><folder>images</folder><size><width>640</width><height>480</height><depth>3</depth></size><object><name>Saab</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>21.0</xmin><ymin>98.0</ymin><xmax>613.0</xmax><ymax>416.0</ymax></bndbox></object></annotations>
